@@ -65,6 +65,7 @@ public abstract class Command {
 
     /**
      * Returns true if command executed mutates the data.
+     * Assumed to be false.
      *
      * @return false
      */
